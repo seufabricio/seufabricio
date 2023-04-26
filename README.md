@@ -1,8 +1,8 @@
 ### Olá! Meu nome é Fabrício Barbosa. 👋
 
 
-- 🔭 Estudo principalmente Desenvolvimento Web
-- 🌱 Aprendendo HTML, PHP e SQL
+- 🔭 Sou Desenvolvedor Web
+- 🌱 Aprendendo JavaScript
 
 <div align="center">
   <a href="https://github.com/seufabricio">
